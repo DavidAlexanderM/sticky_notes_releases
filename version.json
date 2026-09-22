@@ -1,13 +1,13 @@
 {
-  "version": "1.6.9",
-  "tag_name": "v1.6.9",
-  "published_at": "69cfea739f36a4c8ae7a5307a5e7b763e250944c",
-  "html_url": "https://github.com/DavidAlexanderM/sticky_notes_releases/releases/tag/v1.6.9",
-  "body": "Sticky Notes v1.6.9 release for Windows.",
-  "asset_name": "StickyNotes_v1.6.9_Windows.zip",
-  "asset_size": 79637869,
-  "browser_download_url": "https://github.com/DavidAlexanderM/sticky_notes_releases/releases/download/v1.6.9/StickyNotes_v1.6.9_Windows.zip",
-  "installer_name": "StickyNotes_Setup_v1.6.9.exe",
-  "installer_size": 56614796,
-  "installer_url": "https://github.com/DavidAlexanderM/sticky_notes_releases/releases/download/v1.6.9/StickyNotes_Setup_v1.6.9.exe"
+  "version": "1.7.0",
+  "tag_name": "v1.7.0",
+  "published_at": "77957dfafb0bf157c5f18be27c756f8735f0cad4",
+  "html_url": "https://github.com/DavidAlexanderM/sticky_notes_releases/releases/tag/v1.7.0",
+  "body": "Sticky Notes v1.7.0 release for Windows.",
+  "asset_name": "StickyNotes_v1.7.0_Windows.zip",
+  "asset_size": 79644443,
+  "browser_download_url": "https://github.com/DavidAlexanderM/sticky_notes_releases/releases/download/v1.7.0/StickyNotes_v1.7.0_Windows.zip",
+  "installer_name": "StickyNotes_Setup_v1.7.0.exe",
+  "installer_size": 56619907,
+  "installer_url": "https://github.com/DavidAlexanderM/sticky_notes_releases/releases/download/v1.7.0/StickyNotes_Setup_v1.7.0.exe"
 }
